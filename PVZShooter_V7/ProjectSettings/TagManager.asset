@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - zombie
+  - plant
+  - head
+  - wall
+  - tudou
+  - onion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3331017387
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: plant
+    uniqueID: 134987783
+    locked: 0
+  - name: zombie
+    uniqueID: 2304522239
+    locked: 0
+  - name: effect
+    uniqueID: 192747091
+    locked: 0
+  - name: ui
+    uniqueID: 3557439795
+    locked: 0
